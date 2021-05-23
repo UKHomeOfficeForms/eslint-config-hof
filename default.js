@@ -165,7 +165,9 @@ module.exports = {
       newIsCap: true
     }],
     'no-multiple-empty-lines': [2, { // http://eslint.org/docs/rules/no-multiple-empty-lines
-      max: 2
+      max: 2,
+      maxEOF: 0,
+      maxBOF: 1
     }],
     'quote-props': [2,               // https://eslint.org/docs/rules/quote-props
       'as-needed'
