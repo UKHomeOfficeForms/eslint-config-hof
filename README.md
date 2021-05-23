@@ -1,5 +1,5 @@
 # eslint-config-hof
-An up-to-date linter for Home Office Forms products. This includes widely used plugins for node, typescript, mocha and keeping clean code when using regex and lodash.
+An up-to-date linter for Home Office Forms products. This includes widely used plugins for node, typescript and mocha for instance.
 
 It also has been created to ensure consistent indentation, spacing, and code structure to be implemented across all HOF products for consistency.
 

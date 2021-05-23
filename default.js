@@ -1,20 +1,13 @@
 'use strict';
 
 module.exports = {
-  extends: [
-    'plugin:clean-regex/recommended',
-    'plugin:lodash/recommended'
-  ],
   parser: 'babel-eslint', // https://github.com/babel/babel-eslint
   plugins: [
-    'import',
     'jest',
     'node',
     'mocha',
     'cucumber',
-    'typescript',
-    'clean-regex',
-    'lodash'
+    'typescript'
   ],
   env: {
     browser: true,
