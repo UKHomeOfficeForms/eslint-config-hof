@@ -3,6 +3,7 @@
 module.exports = {
   parser: 'babel-eslint', // https://github.com/babel/babel-eslint
   plugins: [
+    'import',
     'jest',
     'node',
     'mocha',
