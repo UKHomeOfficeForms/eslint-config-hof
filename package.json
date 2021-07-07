@@ -1,10 +1,10 @@
 {
   "name": "eslint-config-hof",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A linter for Home Office Forms",
   "main": "default.js",
   "engines": {
-    "node": "^14.15.0"
+    "node": ">=10.22.1"
   },
   "scripts": {
     "test": "eslint ."
