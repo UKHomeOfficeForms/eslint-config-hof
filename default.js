@@ -204,9 +204,6 @@ module.exports = {
     /**
      * ES6 Rules
      */
-    'arrow-body-style': [2,          // https://eslint.org/docs/rules/arrow-body-style
-      'as-needed'
-    ],
     'arrow-parens': [2,              // https://eslint.org/docs/rules/arrow-parens
       'as-needed'
     ],
