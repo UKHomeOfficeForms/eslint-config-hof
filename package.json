@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-hof",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A linter for Home Office Forms",
   "main": "default.js",
   "engines": {
