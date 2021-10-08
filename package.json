@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-hof",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A linter for Home Office Forms",
   "main": "default.js",
   "engines": {
@@ -21,11 +21,11 @@
   "homepage": "https://github.com/UKHomeOfficeForms/eslint-config-hof#readme",
   "dependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.27.0",
+    "eslint": "^7.32.0",
     "eslint-plugin-cucumber": "^1.4.0",
-    "eslint-plugin-import": "^2.23.3",
-    "eslint-plugin-jest": "^24.3.6",
-    "eslint-plugin-mocha": "^8.1.0",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-jest": "^24.5.2",
+    "eslint-plugin-mocha": "^9.0.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-typescript": "^0.14.0"
   },
