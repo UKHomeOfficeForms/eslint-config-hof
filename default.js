@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  parser: 'babel-eslint', // https://github.com/babel/babel-eslint
+  parser: '@babel/eslint-parser', // https://github.com/babel/babel-eslint
   plugins: [
     'import',
     'jest',
@@ -33,6 +33,7 @@ module.exports = {
     }
   },
   parserOptions: {
+    requireConfigFile: false,
     ecmaVersion: 9,
     ecmaFeatures: {
       arrowFunctions: true,
