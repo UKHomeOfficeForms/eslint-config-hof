@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/UKHomeOfficeForms/eslint-config-hof#readme",
   "dependencies": {
-    "@babel/eslint-parser": "^7.16.3",
+    "@babel/eslint-parser": "^7.16.5",
     "eslint": "^7.32.0",
     "eslint-plugin-cucumber": "^1.4.0",
     "eslint-plugin-import": "^2.24.2",
