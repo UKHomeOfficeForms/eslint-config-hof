@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/UKHomeOfficeForms/eslint-config-hof#readme",
   "dependencies": {
-    "@babel/core": "^7.16.7",
+    "@babel/core": "^7.16.10",
     "@babel/eslint-parser": "^7.16.3",
     "eslint": "^7.32.0",
     "eslint-plugin-cucumber": "^1.4.0",
